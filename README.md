@@ -1,5 +1,4 @@
 # actix-web-multipart-test
-=======
 
 A helper for creating `multipart/form-data` payloads for `actix-web` tests.
 
